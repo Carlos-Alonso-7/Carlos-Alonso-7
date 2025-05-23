@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there 👋 I'm Carlos Cortes
 
-<!--
-**Carlos-Alonso-7/Carlos-Alonso-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer who enjoys solving complex problems and building efficient, maintainable solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🔭 I’m currently working on projects involving system development and backend services.
+- 🌱 I’m constantly learning and improving my skills in full-stack development.
+- 👯 I’m looking to collaborate on software tools, automation projects, and interesting tech challenges.
+- 💬 Ask me about anything related to Python, C++, C#, Java, JavaScript, or databases!
+- 📫 How to reach me: carlosanchiacortes@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love exploring how different programming paradigms solve the same problem.
+
+---
+
+### 🛠️ Languages & Tools
+
+- **Languages:** Python, C++, C#, Java, JavaScript  
+- **Databases:** MySQL, Microsoft SQL Server (SSMS)  
+- **Tools & Frameworks:** Visual Studio, IntelliJ IDEA, VS Code, Git, and more
+
+---
+
+### 📌 Current Focus
+
+I'm focused on strengthening my backend development skills and gaining deeper knowledge in database optimization and system architecture. I'm also exploring ways to integrate front-end technologies for full-stack applications.
+
+---
+
+### 📈 GitHub Stats
+
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos-Alonso-7&show_icons=true&theme=github_dark&hide_border=true)
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and connect with me. 🚀
